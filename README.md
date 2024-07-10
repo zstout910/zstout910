@@ -7,15 +7,13 @@
 Stock Manager at Alumni Hall
 - 09/2021-08/2022<br/>
 Engineering Intern With Denso Manufacturing
-- 05/2021-07/2021<br/>
-Summer Internship with Lenoir City Utility Board
 # Skills
 - Logistics
-- Stocking
-- Excel
-- ICAD
-- Solid Works
-- 3D Printing
+- Node.js
+- Git
+- JavaScript
+- Bootstrap
+- CSS
 - HTML
 # Volunteer Work
 - 2021-2022<br/>
@@ -24,7 +22,7 @@ Second Harvest Food Bank
 Blount County Animal Shelter
 #### Hi there, I'm Zach Stout [zstout910]
 - 👋 Hi, I’m @zstout910
-- 🌱 I’m currently training on [HTML]
+- 🌱 I’m currently training on [JavaScript]
 
 ### connect with me.
 
